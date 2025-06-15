@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center">👋Hello world! My name is Lorenzo, 17yo developer!</h1>
+<h1 align="center">👋Hello world! My name is Lorenzo, 17yo developer and pentester!</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">👨‍💻 17-year-old developer from Italy.<br><br>Always learning something new!<br><br>Feel free to explore my projects and connect! 🌟</p>
+<p align="left">👨‍💻 17-year-old developer|pentester from Italy.<br><br>Always learning something new!<br><br>Feel free to explore my projects and connect! 🌟</p>
 
 ###
 
