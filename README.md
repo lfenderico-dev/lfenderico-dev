@@ -26,6 +26,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
+  
 </div>
 
 ###
