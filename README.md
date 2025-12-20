@@ -1,42 +1,37 @@
-<br clear="both">
+# Hi there, I'm Lorenzo Fenderico 👋  
+He / Him — Developer & Cybersecurity enthusiast
 
-<h1 align="center">👋Hello world! My name is Lorenzo</h1>
+> Always learning.
 
-###
+---
 
-<br clear="both">
+## 🔭 About Me
+I’m a developer and cybersecurity enthusiast who enjoys building web applications and automation tools. I work with modern frontend frameworks and backend tools.  
 
-<p align="left">👨‍💻Developer|pentester<br><br>Always learning something new!<br><br>Feel free to explore my projects and connect! 🌟</p>
+---
 
-###
-
+## 🔑 Core Skills
+### Languages and frameworks
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxt" height="30" alt="vue logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="tailwind logo"  />
 </div>
 
-###
+### Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+</div>
 
+---
+
+Thank you for stopping by — let’s build secure, delightful software! 🚀
+
+## My social media
 <div align="left">
   <a href="https://www.linkedin.com/in/lorenzo-fenderico-20a62836a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
